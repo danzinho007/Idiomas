@@ -1,0 +1,39 @@
+AppAprenderCoreano
+
+Aplicativo de Celular
+
+Notas:
+p    se lê r 
+saek se lê se 
+
+Cores:
+Amarelo = noransaek (Duranse)
+Azul = paran saek ( raranse )
+AzulMarinho = Namsaek (naise)
+Bege = 
+Branco = Hayan saek (raianse)
+Cinza = Hoeasaek (Runse)
+Dourado = geumsaek (Cunse)
+Marrom = galsaek ( gaise )
+Prata = eun saek ( unse )
+Preto = geomun saek (Camunse)
+Roxo = borasek ( burase )
+Turquesa = 
+Verde = Chorok saek (Tchorucuse)
+Vermelho = ppalgan saek ( paiganse )
+
+Escuta = Cor 
+Camunse = Preto
+Cunse = Dourado (Geumsaek)
+Duranse (noransaek)= Amarelo
+Gaise = Marrom
+Paiganse = Vermelho
+Rese = Cinza
+Tchorucuse = Verde
+Xianse = Ciano
+
+Escrita = Cor
+3Letras-Chorok saek = Verde
+2Letras-Galsaek = Marrom
+2Letras-Hoeasaek = Cinza
+3Letras-Noransaek (Duranse)= Amarelo

@@ -1,0 +1,2 @@
+Siglas dos arquivos = O que faz
+AprenderChines = Aplicativo pra Android

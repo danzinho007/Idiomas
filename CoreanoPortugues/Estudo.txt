@@ -1,0 +1,60 @@
+CoreanoPortugues :
+
+아	A
+어	eo ( ar )
+이	I
+
+오	O
+우	u
+으	eu ( er )
+유	Yu
+요	Yo
+와	wa
+
+여	Yeo ( ia )
+야	ya
+애	ae ( é )
+얘	yae ( ié )
+에	e
+예	ye
+
+의	ui 
+워	wo
+외	oe ( ué )
+웨	we ( ué )
+위	wi
+왜	wae ( ué )
+
+게	ge ( ké )
+너	neo ( na )
+노	no ( do )
+도	do ( to )
+가	ga ( ka )
+리	ri ( li )
+다	da ( ta )
+루	ru
+
+사	as
+브	beu ( bue )
+보	bo ( pó )
+뭐	mwo ( mua )
+샤	sha ( tchia )
+미	mi
+져	jyeo ( tchia )
+재	jae ( tché )
+
+츄	chyu ( cho )
+톤	ton ( pon )
+표	pyo
+캐	kae ( ké )
+최	choi ( chê )
+퍠	pyae ( pié )
+툐	tyo ( pio )
+캬	kya ( pia )
+
+휘	hwi ( pi )
+썌	ssyae ( sé )
+끠	kkui ( ki )
+또	tto
+똬	ttwa
+헤	he ( ré )
